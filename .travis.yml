@@ -3,6 +3,7 @@ dist: trusty
 env:
   global:
   - ANDROID_API=26
+  - EMULATOR_API=22
   - ANDROID_BUILD_TOOLS=26.0.2
   - PROJECT_1=Scorekeeper
   - TESTNAME=DayNightTest
